@@ -1,0 +1,7 @@
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe.config
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.pdb
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.exe
+E:\BizRun-Tech\RocketMQ\RocketMqC#\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.pdb
